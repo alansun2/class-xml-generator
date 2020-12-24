@@ -1,1 +1,1 @@
-# class-xml-generator
+# java-code-generator
